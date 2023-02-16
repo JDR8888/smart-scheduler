@@ -4,7 +4,7 @@ var saver = $(".saveBtn"); // quick ref for buttons with class "saveBtn"
 // wait to page loads to run stuff
 $(document).ready(function() {
   let today = dayjs();
-  $('#currentDay').text(today.format('[Today is] MMM D YYYY')); // sets #currentDay id element's text to display the current day from dayjs
+  $('#currentDay').text(today.format('[Today is] D MMM YYYY')); // sets #currentDay id element's text to display the current day from dayjs
   let hour = today.hour(); // get current hr 
 
   // for each element with class .time-block, i will get the id, take the last two values of the string (the nubmers) and assign those as the value for currentThing (current appointment box thing)
