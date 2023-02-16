@@ -16,7 +16,7 @@ The github repo is @ https://github.com/JDR8888/smart-scheduler
 
 Screenshot of the page:
 
-![screenshot of project](/assets/screenshot-05.jpg)
+![screenshot of project](./Assets/screenshot-05.jpg)
 
 
 # Installation
