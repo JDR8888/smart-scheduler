@@ -1,5 +1,5 @@
 ## Module 2 Challenge (Columbia Bootcamp)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) 
 
 # Description
 A smart, adaptive scheduler app that uses jQuery, dayjs, bootstrap, css, html, vanilla JavaScript, local storage, and clever thinking. One can visit the site to see the current date automatically updated and a business-hour grid for listing to-dos, meetings, etc. for each hour-block of time. The scheduler automatically changes the background-color of a given time-block by comparing the hour of the time-block to the current hour - automatically updated for you. Need to come back and check your to-do list or appointments? The scheduler app utilizes local storage so you can easily save whatever you type in for each block in the schedule - it will be waiting for you when you come back to the app later! 
@@ -35,7 +35,7 @@ Screenshot of the page:
 N/A
 # Usage
 N/A
-# Credits
-giphy.com; Columbia U; [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+# Credits   
+  [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 # License
 Please see the repo for license info
