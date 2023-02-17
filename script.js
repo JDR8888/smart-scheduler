@@ -9,11 +9,9 @@ $(document).ready(function() {
 
   // for each element with class .time-block, i will get the id, take the last two values of the string (the nubmers) and assign those as the value for currentThing (current appointment box thing)
   $(timeRow).each(function() {
-    // if (this.attr("id").substring(5,6) < hour) {
     currentThing = this;
-    myID = $(currentThing).attr('id'); // get id
+    myID = $(currentThing).attr('id'); 
     value = myID.substring(5,7); //hour value is in last two indices of the id string
-    // console.log(value);
     if (value > hour) { //if appt time is > current time
       $(currentThing).addClass("future"); //give future class
     } else if (value == hour) {
